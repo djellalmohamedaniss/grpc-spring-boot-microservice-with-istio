@@ -9,6 +9,12 @@ this is a simple project built using spring boot, where I implement the followin
 - a post microservice to create, list, get.
 - a maven project that contains the **.proto** file to generate an interface containing messages and services. this interface is used as a dependency in both microservices.
 
+## project schema
+
+<p align="center">
+  <img src="https://github.com/djellalmohamedaniss/grpc-spring-boot-microservice-with-istio/blob/master/grpc-spring-boot-microservice-with-k8s-istio.jpg">
+</p>
+
 ### user microservice available routes are:
 
 | url | method | description |
