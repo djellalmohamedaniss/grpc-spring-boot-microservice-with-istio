@@ -12,7 +12,7 @@ this is a simple project built using spring boot, where I implement the followin
 ## project schema
 
 <p align="center">
-  <img src="https://github.com/djellalmohamedaniss/grpc-spring-boot-microservice-with-istio/blob/master/grpc-spring-boot-microservice-with-k8s-istio.jpg">
+  <img width="600px" src="https://github.com/djellalmohamedaniss/grpc-spring-boot-microservice-with-istio/blob/master/grpc-spring-boot-microservice-with-k8s-istio.jpg">
 </p>
 
 ### user microservice available routes are:
